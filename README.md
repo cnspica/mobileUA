@@ -3,16 +3,17 @@ mobileUA
 
 记录常用的移动端user agent, 通过 http://detectmobilebrowsers.com/ 测试。
 
-Opera Mobile
-
-
-
 欧朋HD
 
 Opera/9.80 (Android 4.0.4; Linux; Opera Mobi/OupengHD-1.3/ADR-1211021236; U; zh-cn) Presto/2.10.254 Version/12.00
 
+Opera Mobile
+
+Opera/9.80 (Android 4.0.4; Linux; Opera Mobi/ADR-1212030906) Presto/2.11.355 Version/12.10
+
 Opera Mini
 
+Opera/9.80 (Android; Opera Mini/7.5.32193/28.3234; U; zh) Presto/2.8.119 Version/11.10
 
 
 欧朋浏览器
